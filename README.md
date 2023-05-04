@@ -1,4 +1,5 @@
-# Store_Sales
+![StoreSales (440 × 388 px)](https://user-images.githubusercontent.com/111559921/232253940-33079fde-7ae8-408e-b077-9b9c9876cf64.png)
+
 
   ## Summary
 In this project I use a linear-regression model, randomforestregressor and a neural network to predict the store sales.
