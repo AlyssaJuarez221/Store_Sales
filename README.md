@@ -35,11 +35,11 @@ Grocery stores have a constant issue, figuring out how much product to keep on h
   
     ### Performance Comparison 
     * Linear Regression model
-      * Score: 0.34
+      * 34% Accuracy
     * RandomForestRegressor
-      * Score: 0.90
+      * 90% Accuracy
     * Neural Network
-      * Score: .52
+      * 52% Accuracy
     
   ## Conclusion
   While the Randomforestregressor model was the best in this instance, I believe it is because I am not yet great at building a neural network.
