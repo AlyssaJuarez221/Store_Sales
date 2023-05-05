@@ -22,7 +22,8 @@ Grocery stores have a constant issue, figuring out how much product to keep on h
       
     ### Preprocessing 
       * Identify how many stores and departments 
-      * created a list of dataframes so I could recall each store individually
+      * Created a list of dataframes so I could recall each store individually
+      * Feature engineer total sales for each store
   
     ### Visualization 
       * I created scatterplots and other graphs to demostrate model accuracy
