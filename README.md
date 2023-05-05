@@ -15,34 +15,45 @@ Grocery stores have a constant issue, figuring out how much product to keep on h
   * 121.87 MB
   * Supervised
   * Output Type: Numerical
+  
+    ### Cleaning
+      * Remove null
+      * Drop unneeded columns 
+  
+    ### Visualization 
+      * I created scatterplots and other graphs to demostrate model accuracy
+      * <img width="409" alt="image" src="https://user-images.githubusercontent.com/111559921/236515334-f9ae36fa-22e4-4fa7-b125-47380423bdca.png">
 
 
   ## Models
   * Linear Regression model
   * RandomForestRegressor
   * Neural Network
+
+    ### Training
+      *Trained using python, sklearn & keras
   
-  ## Performance Comparison 
-  * Linear Regression model
+    ### Performance Comparison 
+       * Linear Regression model
     *Score: 0.3396043757938785
-  * RandomForestRegressor
+       * RandomForestRegressor
     *Score: 0.8979041145244615
-  * Neural Network
+      * Neural Network
     * Score: 51.937977546440884
     
   ## Conclusion
   While the Randomforestregressor model was the best in this instance, I believe it is because I am not yet great at building a neural network.
     
-  ## Future Work 
+  ### Future Work 
   If this project taught me anything, it't that I need to work on my neural network skills. I hope to prefect them in the near future.
   
-  ##How to Reproduce Results
+  ## How to Reproduce Results
   Plug in your dataset, identify and rewrite your X,y and youre good to go! NOTE: Each model operates as a function, so if you wish to slice your data into sections this will help you analyze those sections with ease
   
-  ## Overview of files in repo
+  ### Overview of files in repo
   * code.ipnyb - the jupyter notebook containing all of my code and findings
   
-  ## software setup 
+  ### software setup 
 * numpy
 * matplotlib
 * pandas
