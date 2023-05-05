@@ -34,12 +34,12 @@ Grocery stores have a constant issue, figuring out how much product to keep on h
       *Trained using python, sklearn & keras
   
     ### Performance Comparison 
-       * Linear Regression model
-    *Score: 0.3396043757938785
-       * RandomForestRegressor
-    *Score: 0.8979041145244615
-      * Neural Network
-    * Score: 51.937977546440884
+    * Linear Regression model
+      * Score: 0.34
+    * RandomForestRegressor
+      * Score: 0.90
+    * Neural Network
+      * Score: .52
     
   ## Conclusion
   While the Randomforestregressor model was the best in this instance, I believe it is because I am not yet great at building a neural network.
