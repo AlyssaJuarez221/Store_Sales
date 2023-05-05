@@ -19,6 +19,10 @@ Grocery stores have a constant issue, figuring out how much product to keep on h
     ### Cleaning
       * Remove null
       * Drop unneeded columns 
+      
+    ### Preprocessing 
+      * Identify how many stores and departments 
+      * created a list of dataframes so I could recall each store individually
   
     ### Visualization 
       * I created scatterplots and other graphs to demostrate model accuracy
