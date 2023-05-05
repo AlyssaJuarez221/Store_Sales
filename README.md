@@ -37,7 +37,7 @@ Grocery stores have a constant issue, figuring out how much product to keep on h
   If this project taught me anything, it't that I need to work on my neural network skills. I hope to prefect them in the near future.
   
   ##How to Reproduce Results
-  Plug in your dataset, identify and rewrite your X,y and youre good to go!
+  Plug in your dataset, identify and rewrite your X,y and youre good to go! NOTE: Each model operates as a function, so if you wish to slice your data into sections this will help you analyze those sections with ease
   
   ## Overview of files in repo
   * code.ipnyb - the jupyter notebook containing all of my code and findings
